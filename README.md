@@ -1,2 +1,2 @@
-# python1
-code
+d# python1
+print "Helloy word"
